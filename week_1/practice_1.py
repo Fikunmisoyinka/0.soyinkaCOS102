@@ -12,3 +12,4 @@ print("Data type of variable fnum is", type(fnum))
 cnum = 3 + 4j
 print(cnum)
 print("Data type of variable cnum is", type(cnum))
+
